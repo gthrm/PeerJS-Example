@@ -4,7 +4,7 @@
   "description": "PeerJS example",
   "scripts": {
     "start": "parcel src/index.html",
-    "build": "parcel build src/index.html --public-url ./PeerJS-Example",
+    "build": "parcel build src/index.html --public-url ./",
     "deploy": "npm run build && gh-pages -d dist"
   },
   "author": "",
